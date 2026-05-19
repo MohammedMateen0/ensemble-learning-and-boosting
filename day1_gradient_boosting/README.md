@@ -26,13 +26,13 @@ The project includes manual boosting implementation, learning rate experiments, 
 Gradient Boosting builds models sequentially:
 
 \[
-F(x) = F_0(x) + \eta h_1(x) + \eta h_2(x) + \dots + \eta h_n(x)
+F(x) = F0​(x)+ηh1​(x)+ηh2​(x)+⋯+ηhn​(x)
 \]
 
 Where:
-- \(F_0(x)\) = initial prediction
-- \(h_n(x)\) = weak learner
-- \(\eta\) = learning rate
+- \(F0​(x)\) = initial prediction
+- \(hn(x)\) = weak learner
+- \(η\) = learning rate
 
 Residuals:
 
