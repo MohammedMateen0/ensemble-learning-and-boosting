@@ -65,7 +65,6 @@ day1_gradient_boosting/
 
 ```
 ---
----
 
 # Implementations
 
@@ -212,7 +211,6 @@ Next modules in this repository:
 
 ---
 
-# Author
 
 Machine Learning roadmap project focused on:
 
