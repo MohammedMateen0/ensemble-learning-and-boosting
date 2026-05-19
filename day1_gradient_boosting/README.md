@@ -37,7 +37,7 @@ Where:
 Residuals:
 
 \[
-r_i = y_i - \hat{y}_i
+ri = yi - ŷi
 \]
 
 Each new tree learns the current prediction errors.
